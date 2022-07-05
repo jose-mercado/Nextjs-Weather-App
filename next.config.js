@@ -6,6 +6,8 @@ const nextConfig = {
 module.exports = {
   images: {
     domains: [
+      'images.unsplash.co',
+      'openweathermap.org',
       'images.unsplash.com'
     ]
   }
